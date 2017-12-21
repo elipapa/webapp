@@ -114,7 +114,7 @@ angular.module('otDirectives')
 
                             // evidence source
                             if (item.sourceID === otConsts.datasources.PHEWAS_23andme.id) {
-                                row.push('<a class=\'ot-external-link\' href=\'https://test-rvizapps.biogen.com/23andmeDev/\' target=\'_blank\'>'
+                                row.push('<a class=\'ot-external-link\' href=\'https://rvizapps.biogen.com/23andme/\' target=\'_blank\'>'
                                     + otClearUnderscoresFilter(item.sourceID)
                                     + '</a>');
                             } else if (item.sourceID === otConsts.datasources.PHEWAS.id) {
