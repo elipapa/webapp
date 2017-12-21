@@ -92,7 +92,7 @@
         "description": ""
     },
     "PHEWAS_23andme": {
-        "id": "23andme",
+        "id": "twentythreeandme",
         "label": "23andMe",
         "infoUrl": "/data-sources#phewas_23andme",
         "infoTemplate": "23andme.md",
